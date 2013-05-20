@@ -459,7 +459,7 @@ var data = [
         },
         {
             index: 18,
-            name: "Artifacer",
+            name: "Artificer",
             ranks: 2,
             desc: "Reduces the cooldown of activated items by #%",
             rankInfo: [7.5, 15],
@@ -475,7 +475,7 @@ var data = [
         {
             index: 20,
             name: "Charge",
-            ranks: 1,
+            ranks: 2,
             desc: "Aura that grants +#% Movement Speed to you and your allies (800 range)",
             rankInfo: [1, 2],
         },
